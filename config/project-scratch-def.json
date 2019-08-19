@@ -1,0 +1,12 @@
+{
+  "orgName": "Demo Company",
+  "edition": "Developer",
+  "username": "mytestusername55@gmail.com",
+  "adminEmail": "asriam@yahoo.com",
+  "features": [],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true
+    }
+  }
+}
